@@ -11,20 +11,19 @@ API: https://hacker-news.firebaseio.com/v0/
 >
 > > common
 > >
-> > > hooks
+> > > hooks\
 > > > utils
 >
 > > components
 >
 > > features
 > >
-> > > details
+> > > details\
 > > > news
 >
 > > pages
 >
-> > config.js
-> >
+> > config.js\
 > > store.js
 
 ## Локальная разработка
