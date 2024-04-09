@@ -11,19 +11,20 @@ API: https://hacker-news.firebaseio.com/v0/
 >
 > > common
 > >
-> > > hooks\
-> > > utils\
+> > > hooks
+> > > utils
 >
 > > components
 >
 > > features
 > >
-> > > details\
-> > > news\
+> > > details
+> > > news
 >
 > > pages
 >
 > > config.js
+> >
 > > store.js
 
 ## Локальная разработка
@@ -41,12 +42,6 @@ $ npm i или npm install
 
 ```sh
 $ npm start
-```
-
-- Production cборка проекта запускается следующей командой.
-
-```sh
-$ npm run build
 ```
 
 ## В проекте использовались библиотеки:
